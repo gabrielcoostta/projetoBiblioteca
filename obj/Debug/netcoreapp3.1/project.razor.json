@@ -14427,8 +14427,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Roberto\\Nova pasta\\Biblioteca\\Views\\Usuario\\RegistrarUsuarios.cshtml",
+      "TargetPath": "Views\\Usuario\\RegistrarUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Nova pasta\\Biblioteca\\Views\\Usuario\\ExcluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\ExcluirUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Roberto\\Nova pasta\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Nova pasta\\Biblioteca\\Views\\Usuario\\CadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuario\\CadastroRealizado.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14467,6 +14482,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Roberto\\Nova pasta\\Biblioteca\\Views\\Usuario\\listaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuario\\listaDeUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Nova pasta\\Biblioteca\\Views\\Usuario\\EditarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\EditarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Roberto\\Nova pasta\\Biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
       "TargetPath": "Views\\Livro\\_FormCadastro.cshtml",
       "FileKind": "mvc"
@@ -14474,6 +14499,11 @@
     {
       "FilePath": "c:\\Users\\Roberto\\Nova pasta\\Biblioteca\\Views\\Home\\Login.cshtml",
       "TargetPath": "Views\\Home\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Roberto\\Nova pasta\\Biblioteca\\Views\\Usuario\\NeedAdmin.cshtml",
+      "TargetPath": "Views\\Usuario\\NeedAdmin.cshtml",
       "FileKind": "mvc"
     }
   ],
